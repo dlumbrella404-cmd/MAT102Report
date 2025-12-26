@@ -1,0 +1,16 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{}%
+\contentsline {section}{\numberline {2}Equations}{4}{}%
+\contentsline {section}{\numberline {3}Sections}{5}{}%
+\contentsline {subsection}{\numberline {3.1}Title of the subsection}{5}{}%
+\contentsline {section}{\numberline {A}Title for Appendix A}{6}{}%
+\contentsline {section}{\numberline {B}Introduction}{7}{}%
+\contentsline {section}{\numberline {C}Mathematical Preliminaries}{8}{}%
+\contentsline {section}{\numberline {D}Statement of Taylor's Theorem}{8}{}%
+\contentsline {section}{\numberline {E}Proof of the Theorem}{9}{}%
+\contentsline {section}{\numberline {F}Analysis of the Approximation}{11}{}%
+\contentsline {subsection}{\numberline {F.1}The Remainder Term}{11}{}%
+\contentsline {subsection}{\numberline {F.2}Relationship to Mean Value Theorem}{11}{}%
+\contentsline {section}{\numberline {G}Examples and Applications}{11}{}%
+\contentsline {subsection}{\numberline {G.1}Example 1: The Exponential Function}{12}{}%
+\contentsline {subsection}{\numberline {G.2}Example 2: The Cosine Function}{12}{}%
+\contentsline {section}{\numberline {H}Conclusion}{13}{}%
