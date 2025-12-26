@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.11.12)  26 DEC 2025 13:22
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.11.12)  26 DEC 2025 13:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -205,8 +205,7 @@ File: l3backend-xetex.def 2025-10-09 L3 backend support: XeTeX
 \g__graphics_track_int=\count296
 \g__pdfannot_backend_int=\count297
 \g__pdfannot_backend_link_int=\count298
-)
-No file "Report Template".aux.
+) (./Report Template.aux)
 \openout1 = `"Report Template.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
@@ -225,6 +224,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
 LaTeX Font Info:    ... okay on input line 39.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
 LaTeX Font Info:    ... okay on input line 39.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
@@ -267,51 +267,33 @@ LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
 
 [1
 
-]
-No file "Report Template".toc.
+] (./Report Template.toc
+LaTeX Font Info:    Trying to load font information for U+msa on input line 4.
+ (d:/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
+ (d:/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
 \tf@toc=\write3
 \openout3 = `"Report Template.toc"'.
 
 
+
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-
-LaTeX Warning: Reference `LastPage' on page 1 undefined on input line 91.
 
 [1]
 
-LaTeX Warning: Citation `einstein' on page 2 undefined on input line 103.
-
-
-LaTeX Warning: Citation `crank47' on page 2 undefined on input line 104.
-
-
-LaTeX Warning: Citation `Kato1987' on page 2 undefined on input line 104.
-
-
-LaTeX Warning: Citation `dirac' on page 2 undefined on input line 104.
-
-LaTeX Font Info:    Trying to load font information for U+msa on input line 128.
-(d:/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 128.
- (d:/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-
-LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 142.
 
 [2]
 File: euler.jpg Graphic file (type bmp)
@@ -324,22 +306,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-
-LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 174.
-
 [3]
-
-LaTeX Warning: Reference `eq1' on page 4 undefined on input line 196.
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-
-LaTeX Warning: Reference `LastPage' on page 4 undefined on input line 212.
 
 [4]
 
@@ -347,20 +320,11 @@ LaTeX Font Warning: Font shape `TU/ptm/m/it' undefined
 (Font)              using `TU/ptm/m/n' instead on input line 224.
 
 
-LaTeX Warning: Reference `thm.1' on page 5 undefined on input line 245.
-
-
-LaTeX Warning: Reference `thm.1' on page 5 undefined on input line 246.
-
-
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-
-LaTeX Warning: Reference `LastPage' on page 5 undefined on input line 256.
 
 [5]
 
@@ -370,9 +334,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-
-LaTeX Warning: Reference `LastPage' on page 6 undefined on input line 289.
-
 [6] (./Report Template.bbl)
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -380,9 +341,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-
-LaTeX Warning: Reference `LastPage' on page 7 undefined on input line 311.
 
 [7]
 
@@ -392,62 +350,29 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-
-LaTeX Warning: Reference `LastPage' on page 8 undefined on input line 343.
-
 [8]
-
-LaTeX Warning: Reference `eq:def_g' on page 9 undefined on input line 364.
-
-
-LaTeX Warning: Reference `eq:def_M' on page 9 undefined on input line 371.
-
-
-LaTeX Warning: Reference `eq:poly_def' on page 9 undefined on input line 377.
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-
-LaTeX Warning: Reference `LastPage' on page 9 undefined on input line 382.
 
 [9]
 
-LaTeX Warning: Reference `eq:g_derivs_at_alpha' on page 10 undefined on input line 395.
-
-
-LaTeX Warning: Reference `eq:g_nth' on page 10 undefined on input line 404.
-
-
-LaTeX Warning: Reference `eq:def_M' on page 10 undefined on input line 408.
-
-
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-
-LaTeX Warning: Reference `LastPage' on page 10 undefined on input line 418.
 
 [10]
 
-LaTeX Warning: Reference `eq:poly_def' on page 11 undefined on input line 428.
-
-
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-
-LaTeX Warning: Reference `LastPage' on page 11 undefined on input line 443.
 
 [11]
 
@@ -457,9 +382,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-
-LaTeX Warning: Reference `LastPage' on page 12 undefined on input line 475.
-
 [12]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -467,9 +389,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-
-LaTeX Warning: Reference `LastPage' on page 13 undefined on input line 478.
 
 [13] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
@@ -482,23 +401,14 @@ L3 programming layer <2025-10-24>
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package lastpage Warning: Rerun to get the references right on input line 478.
-
  ) 
 Here is how much of TeX's memory you used:
- 3811 strings out of 470143
- 57988 string characters out of 5477758
- 466264 words of memory out of 5000000
- 32361 multiletter control sequences out of 15000+600000
+ 3816 strings out of 470143
+ 58119 string characters out of 5477758
+ 466861 words of memory out of 5000000
+ 32362 multiletter control sequences out of 15000+600000
  632422 words of font info for 65 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 57i,15n,65p,563b,538s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,15n,65p,563b,503s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on Report Template.pdf (14 pages).
